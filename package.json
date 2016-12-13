@@ -1,0 +1,15 @@
+{
+  "name": "les2",
+  "version": "1.0.0",
+  "description": "simple page server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegd1c/node-les2"
+  },
+  "author": "merlin",
+  "license": "ISC"
+}
